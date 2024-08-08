@@ -74,15 +74,15 @@
 ## ✒️Articles<br>
  <div>
      <a align="center" target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@nisargpipaliya2402/2">
-<img src="https://github-readme-medium-recent-article.vercel.app/medium/@nisargpipaliya2402/2" alt="Recent Article 2"> 
+<img src="https://github-readme-medium-recent-article.vercel.app/medium/@nisargpipaliya2402/0" alt="Recent Article 2"> 
 </div>
 
  <details>
    <summary> 💖More Articles</summary>
 <a align="center" target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@nisargpipaliya2402/1">
-<img src="https://github-readme-medium-recent-article.vercel.app/medium/@nisargpipaliya2402/1" alt="Recent Article 1"> </a>
+<img src="https://github-readme-medium-recent-article.vercel.app/medium/@nisargpipaliya2402/2" alt="Recent Article 1"> </a>
      <a align="center" target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@nisargpipaliya2402/0">
-<img src="https://github-readme-medium-recent-article.vercel.app/medium/@nisargpipaliya2402/0" alt="Recent Article 0"> 
+<img src="https://github-readme-medium-recent-article.vercel.app/medium/@nisargpipaliya2402/1" alt="Recent Article 0"> 
     </details>
 </div>
 
