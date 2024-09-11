@@ -95,10 +95,58 @@
 ## 📊Github Commit Stats 
 </summary>
 <!--     <a  href="http://www.github.com/NisargPipaliya" align ='center'><img align = "center" src="https://github-readme-streak-stats.herokuapp.com/?user=NisargPipaliya&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a> -->
-<!-- <br><br><br> -->
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NisargPipaliya&theme=dark"><br>
+<!-- <!-- <br><br><br> -->
+
+<table>
+<tr><td colspan=2>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NisargPipaliya&theme=dark" align="center"><br>
+</td>
+</tr>
+<tr>
+<td>
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NisargPipaliya&theme=dark"> &nbsp; &nbsp;
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=NisargPipaliya&theme=dark">
+</td>
+
+
+
+<td> 
+    
+[![NisargPipaliya's GitHub | Stats](https://stats.quine.sh/NisargPipaliya/github?theme=dark)](https://github.com/NisargPipaliya)
+</td>
+</tr>
+</table>
+<!--<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=NisargPipaliya&theme=dark"> -->
+<!--<div align="center">
+
+
+
+ 
+ <br>
+
+  <!--<table>
+<tr>
+
+  <td>
+    
+[![NisargPipaliya's GitHub | Stats](https://stats.quine.sh/NisargPipaliya/github?theme=dark)](https://github.com/NisargPipaliya)
+    
+  </td>
+  <td>
+       [![NisargPipaliya's GitHub | Languages Over Time](https://stats.quine.sh/NisargPipaliya/languages-over-time?theme=dark)](https://github.com/NisargPipaliya)  
+  </td>
+</tr>
+<tr>
+<td>
+[![NisargPipaliya's GitHub | Languages Over Time](https://stats.quine.sh/NisargPipaliya/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=NisargPipaliya)
+</td>
+  <!--<td>
+  [![NisargPipaliya's Stack Overflow | Stats](https://stats.quine.sh/NisargPipaliya/stack-overflow?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=NisargPipaliya)
+  </td> 
+</tr></table> 
+-->
+
+
+
 <!-- <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NisargPipaliya&theme=dark"> -->
 <!-- <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NisargPipaliya&theme=dark&utcOffset=5.30"> -->
 <!--[![Nisarg's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=NisargPipaliya&bg_color=000000&color=d1f6ff&line=39a9fe&point=ffffff&area=true&hide_border=true)](https://github.com/NisargPipaliya)-->
